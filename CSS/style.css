@@ -618,3 +618,9 @@ ul.devices{
 .social .twitter {
   color: #55acee;
 }
+
+.social hr {
+  border: 0;
+  border-top: 1px solid #eaebec;
+  margin: 1.313rem 0;
+}
